@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
+  
 ## Studies
+  
 * Singapore Polytechnic, Applied AI and Analytics (2020 - 2023)
+  
 </p>
+
 ## Tech
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
