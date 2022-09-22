@@ -8,3 +8,7 @@
 ## Studies
 * Singapore Polytechnic, Applied AI and Analytics (2020 - 2023)
 
+
+<p align="center">
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="40" height="40" /></a>
+</p>
