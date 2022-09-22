@@ -13,4 +13,10 @@
   <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
   <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
   <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
+  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
 </p>
