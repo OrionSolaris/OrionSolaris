@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/OrionSolaris"><img src="banner-modified-transformed.png" /></a>
   <h3 align="center">For as long we could see, we looked up at the stars and wished them our own.</h3>
@@ -19,15 +18,3 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
-<p align="center">
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-  <a href="https://github.com/OrionSolaris"><img src="polar.gif" width="60" height="60" /></a>
-</p>
